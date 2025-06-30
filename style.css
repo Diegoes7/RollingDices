@@ -490,7 +490,7 @@ button[data-tooltip]:hover::after {
     font-size: 55%; /* Slightly smaller text scale for smaller screens */
   }
   .current {
-    width: 100%;
+    width: 80%;
     padding: 1.5rem;
   }
 }
