@@ -530,7 +530,9 @@ button[data-tooltip]:hover::after {
   .modal-left button {
     margin: 0.5em;
   }
-
+  .current {
+    width: 100%;
+  }
   .text-none {
     display: none;
   }
